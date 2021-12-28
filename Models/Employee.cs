@@ -12,5 +12,8 @@ namespace HelloWebApi.Models
         public string LastName { get; set; }
 
         public int Department { get; set; }
+
+        public decimal Salary { get; set; }
+
     }
 }
