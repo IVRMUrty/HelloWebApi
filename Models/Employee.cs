@@ -15,5 +15,7 @@ namespace HelloWebApi.Models
 
         public decimal Salary { get; set; }
 
+        public int Age { get; set; }
+
     }
 }
